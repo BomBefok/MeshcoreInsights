@@ -159,13 +159,7 @@ The manual covers:
 
 ## Contributing
 
-Pull requests are welcome. Please open an issue first to discuss what you would like to change.
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/my-feature`)
-3. Commit your changes
-4. Push to the branch
-5. Open a Pull Request
+Feature requests are welcome. Please open an issue first to discuss what you would like to change.
 
 ---
 
