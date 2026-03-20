@@ -11,7 +11,26 @@ MeshCore Insights connects to a MeshCore companion node via **USB serial or Blue
 
 ## Screenshots
 
-*Coming soon*
+<img width="1632" height="841" alt="image" src="https://github.com/user-attachments/assets/53554aaf-323f-4b21-adca-6a51c2daad82" />
+
+<img width="1630" height="863" alt="image" src="https://github.com/user-attachments/assets/8259cceb-e616-42aa-b65d-2ba1b788cc42" />
+
+<img width="1639" height="863" alt="image" src="https://github.com/user-attachments/assets/dd630a5d-83a2-41cc-80fa-e43f4f85cc48" />
+
+<img width="1628" height="863" alt="image" src="https://github.com/user-attachments/assets/992e1973-7af8-4e01-a795-b62ec8bab81e" />
+
+<img width="1637" height="863" alt="image" src="https://github.com/user-attachments/assets/0db7ee70-be1b-4e95-8b97-f66a359a1d9a" />
+
+<img width="1632" height="861" alt="image" src="https://github.com/user-attachments/assets/71849ca7-4f0b-4e46-8da6-7d8e9526ada0" />
+
+<img width="1620" height="841" alt="image" src="https://github.com/user-attachments/assets/1e0afbae-fe77-4e2f-a4d9-50c61b824ce9" />
+
+<img width="1633" height="864" alt="image" src="https://github.com/user-attachments/assets/aaf091a6-be6b-4914-a4cf-70db1316fe73" />
+
+
+
+
+
 
 ---
 
