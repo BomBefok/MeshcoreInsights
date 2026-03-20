@@ -2,9 +2,6 @@
 
 > **Desktop dashboard for MeshCore mesh radio networks**
 
-[![Active Development](https://img.shields.io/badge/status-active%20development-orange)](https://github.com/BomBefok/MeshcoreInsights)
-[![Python](https://img.shields.io/badge/python-3.9%2B-blue)](https://python.org)
-[![PyQt5](https://img.shields.io/badge/UI-PyQt5-green)](https://pypi.org/project/PyQt5/)
 
 > ⚠️ **This software is under active development.** Features may change and bugs may be present. Please report issues on GitHub and check for updated releases regularly. Your feedback directly shapes the roadmap.
 
@@ -32,29 +29,11 @@ MeshCore Insights connects to a MeshCore companion node via **USB serial or Blue
 
 ---
 
-## Requirements
-
-| Package | Install |
-|---------|---------|
-| Python 3.9+ | [python.org](https://python.org) |
-| PyQt5 | `pip install PyQt5` |
-| PyQtWebEngine | `pip install PyQtWebEngine` |
-| meshcore | `pip install meshcore` |
-| pyserial | `pip install pyserial` |
-| bleak *(BLE only)* | `pip install bleak` |
-
----
-
 ## Installation
 
-```bash
-git clone https://github.com/BomBefok/MeshcoreInsights.git
-cd MeshcoreInsights
-pip install PyQt5 PyQtWebEngine meshcore pyserial bleak
-python meshgui.py
-```
 
-Or download the latest compiled `.exe` from [Releases](https://github.com/BomBefok/MeshcoreInsights/releases).
+
+Download the latest compiled `.exe` from [Releases](https://github.com/BomBefok/MeshcoreInsights/releases).
 
 ---
 
@@ -184,16 +163,6 @@ Pull requests are welcome. Please open an issue first to discuss what you would 
 3. Commit your changes
 4. Push to the branch
 5. Open a Pull Request
-
----
-
-## Dependencies & Credits
-
-- [meshcore-py](https://github.com/meshcore-dev/meshcore_py) — Python library for MeshCore
-- [MeshCore](https://github.com/meshcore-dev/MeshCore) — Firmware project
-- [PyQt5](https://pypi.org/project/PyQt5/) — Desktop UI framework
-- [Leaflet](https://leafletjs.com/) — Interactive maps
-- [bleak](https://github.com/hbldh/bleak) — Bluetooth Low Energy
 
 ---
 
