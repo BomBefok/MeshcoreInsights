@@ -27,11 +27,6 @@ MeshCore Insights connects to a MeshCore companion node via **USB serial or Blue
 
 <img width="1633" height="864" alt="image" src="https://github.com/user-attachments/assets/aaf091a6-be6b-4914-a4cf-70db1316fe73" />
 
-
-
-
-
-
 ---
 
 ## Features
@@ -156,9 +151,6 @@ The manual covers:
 - Check your internet connection
 - For offline use, download tiles first via **🗺 Offline Maps**
 
-### Path map window doesn't open
-- Install PyQtWebEngine: `pip install PyQtWebEngine`
-
 ---
 
 ## Known Limitations
@@ -175,13 +167,7 @@ The manual covers:
 
 ## Contributing
 
-Pull requests are welcome. Please open an issue first to discuss what you would like to change.
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/my-feature`)
-3. Commit your changes
-4. Push to the branch
-5. Open a Pull Request
+Feature requests are welcome. Please open an issue first to discuss what you would like to change.
 
 ---
 
